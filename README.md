@@ -2,6 +2,8 @@ Docker image for TP-Link Omada Controller v3.0.5 based off of ubuntu:18.04.
 
 Forked from ehseroffice/omada-controller to add time zone support for Los Angeles
 
+GitHub: https://github.com/nathan-n8/omada-controller
+
 To pull this image: `docker pull nathannathannathan/omada-controller`
 
 Example usage:
